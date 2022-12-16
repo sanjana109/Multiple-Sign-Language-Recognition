@@ -15,9 +15,7 @@ from string import ascii_uppercase
 from translate import Translator
 from textToImage import switch_asl
 from textToImageISL import switch_isl
-
-#from EngToHindi import 
-
+ 
 class Main:
     def __init__(self):
         
